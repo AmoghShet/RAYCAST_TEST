@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple raycasting engine inspired by the classic game DOOM, created using Pygame. The engine casts rays from the player's position to detect walls in a 2D map and renders a 3D view of the environment.
+This project is a simple raycasting engine inspired by classics such as DOOM & Wolfenstein 3D, created using Pygame. The engine casts rays from the player's position to detect walls in a 2D map and renders a 3D view of the environment.
 
 ## Features
 
